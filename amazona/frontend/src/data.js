@@ -48,5 +48,7 @@ const data = {
             numReviews: 10,
             description: 'high quality pant',
         },
-    ]
-}
+    ],
+};
+
+export default data;
